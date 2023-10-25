@@ -1,0 +1,44 @@
+Ingresa las 6 secuencias de ADN (cada una de 6 letras):
+ATGCGA
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+CAGTGC
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+TTATGT
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+AGAAGG
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+CCCCTA
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+TCACTG
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+
+ATGCGA
+CAGTGC
+TTATGT
+AGAAGG
+CCCCTA
+TCACTG 
+Es mutante
+
+
+Ingresa las 6 secuencias de ADN (cada una de 6 letras):
+ATGCGA
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+CAGTGC
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+TTATTT
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+AGACGG
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+GCGTCA
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+TCACTG
+Ingresa las 6 siguiente secuencias de ADN (cada una de 6 letras):
+
+ATGCGA
+CAGTGC
+TTATTT
+AGACGG
+GCGTCA
+TCACTG 
+Este ADN no es mutante
